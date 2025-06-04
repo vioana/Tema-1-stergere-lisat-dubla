@@ -1,0 +1,7 @@
+6
+1001 PopescuIon Dr.Popescu special 4 50.0
+1002 IonescuMaria Dr.Stan nespecial 2 25.5
+1003 GheorgheAndreea Dr.Ionescu special 5 75.0
+1004 EnacheRobert Dr.Petrescu nespecial 1 20.0
+1005 DobreIrina Dr.Georgescu special 3 55.5
+1006 RaduGeorge Dr.Popescu special 2 40.0
